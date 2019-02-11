@@ -1,2 +1,0 @@
-# ReactPlayGround
-Created with CodeSandbox
